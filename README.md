@@ -3,7 +3,7 @@
 Matlab implementation of the following paper:
 
 ```
-Y. Guven, A. Koklu, T. Kumbasar, 2025. Adapting GT2-FLS for Uncertainty Quantification: A Blueprint Calibration Strategy, FUZZ-IEEE.
+Y. Guven, T. Kumbasar, 2025. Adapting GT2-FLS for Uncertainty Quantification: A Blueprint Calibration Strategy, FUZZ-IEEE.
 ```
 We kindly ask that to cite the above mentioned paper if you use methods and you publish papers about work that was performed using these codes.
 
